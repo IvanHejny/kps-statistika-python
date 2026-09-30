@@ -10,6 +10,3 @@ Interaktivní notebooky k úlohám z učebnice. Nic není potřeba instalovat: n
 1. Klikněte na tlačítko **Open in Colab**.
 2. Buňky s kódem spouštějte postupně klávesami **Shift + Enter** (nebo tlačítkem ▶).
 3. Čísla v kódu můžete měnit. Změny se neukládají zpět sem, originál zůstane vždy stejný.
-
-## Pro učitele
-Ve složkách jsou i klasické skripty `.py` (stejný kód jako v noteboocích), které lze spustit v libovolném prostředí (PyCharm, VS Code, Thonny).
