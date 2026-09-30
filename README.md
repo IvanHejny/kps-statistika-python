@@ -1,11 +1,10 @@
-# KPS – statistika a finanční matematika v Pythonu
+# KPS – statistika v Pythonu
 
 Interaktivní notebooky k úlohám z učebnice. Nic není potřeba instalovat: notebook se otevře v prohlížeči tlačítkem **Open in Colab** (stačí Google účet).
 
 | Úloha | Notebook | Otevřít |
 |---|---|---|
-| Tanky (2. část) | `tanky/tanky.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanHejny/kps-statistika-python/blob/main/tanky/tanky.ipynb) |
-| Kde peníze přežijí? (4. část) | `investice/investice.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanHejny/kps-statistika-python/blob/main/investice/investice.ipynb) |
+| Tanky | `tanky/tanky.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanHejny/kps-statistika-python/blob/main/tanky/tanky.ipynb) |
 
 ## Jak s notebookem pracovat
 1. Klikněte na tlačítko **Open in Colab**.
